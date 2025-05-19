@@ -2,17 +2,12 @@
     color: aliceblue !important;
 }
 
-.navbar-brand, :hover, .nav-link:hover {
+.navbar-brand, .nav-link:hover {
     color: aliceblue;
 }
 
 
-.navbar-brand, :hover, .nav-link:hover {
-    color: aliceblue;
-}
-
-
-.dropdown :checked {
+.dropdown:checked {
     color: aliceblue;
 }
 
@@ -20,9 +15,6 @@
     box-shadow: none !important; 
     border-color: aliceblue;
 }
-
-
-
 
 .hero-page {
     min-height: 100vh;
